@@ -23,6 +23,14 @@
       "category": "Roupas",
       "price": 300,
       "createdAt": "2023-02-20T19:07:45.015Z"
+    },
+    {
+      "id": 4,
+      "description": "Ignite Rocketseat",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1980,
+      "createdAt": "2023-02-20T19:07:45.015Z"
     }
   ]
 }
