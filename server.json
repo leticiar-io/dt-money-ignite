@@ -31,6 +31,30 @@
       "category": "Educação",
       "price": 1980,
       "createdAt": "2023-02-20T19:07:45.015Z"
+    },
+    {
+      "description": "Sorvete",
+      "price": 20,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-02-20T21:17:08.572Z",
+      "id": 5
+    },
+    {
+      "description": "Desenvolvimento de App",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-02-20T21:17:49.576Z",
+      "id": 6
+    },
+    {
+      "description": "Material escolar da faculdade",
+      "price": 250,
+      "category": "Educação",
+      "type": "outcome",
+      "createdAt": "2023-02-20T21:27:33.312Z",
+      "id": 7
     }
   ]
 }
